@@ -7,9 +7,10 @@ You can also play the Game from web here: [Astro](https://bjornthor21.github.io/
 
 Controls
 
-WASD or Arrow keys
-Mouse: aim
-Left click: shoot
-Space: Jump
-Z: activate jetpack
+* WASD or Arrow keys
+* Mouse: aim
+* Left click: shoot
+* Space: Jump
+* Z: activate jetpack
+* ECS: Pause
 
